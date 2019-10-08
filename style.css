@@ -1,0 +1,25 @@
+@-moz-document domain("rugbyrama.fr") {
+.header_v8_5 .rugbyrama,
+.nav_v8_5 .rugbyrama,
+.nav_category_v8_5 .rugbyrama {
+    background: #100A08;
+}
+
+.ad {
+    background: #212121;
+}
+
+.cols-2 #col-left {
+    background: #212121;
+    margin: 0 5px 5px 5px;
+    width: 100%;
+}
+
+body {
+    background: #212121;
+}
+
+a .has-relation .storylist_featured {
+    background: #212121;
+}
+}
